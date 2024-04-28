@@ -9,3 +9,4 @@ read me
 
 git
 git plus
+Продолжаем тренировку 
